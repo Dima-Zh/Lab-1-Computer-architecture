@@ -1,4 +1,4 @@
-# Lab-1-Computer-architecture
+# Lab-1-Computer-Аrchitecture
 
 Виконали студенти КВ-73 
 Шаган Сергій та Жовнірський Дмитро
